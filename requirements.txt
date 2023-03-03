@@ -1,0 +1,7 @@
+requests
+telethon
+bs4
+re
+time
+webbrowser
+os
